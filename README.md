@@ -19,7 +19,7 @@ Project Gallery: This section showcases my various design projects, from charact
 
 Contact Form: There’s a simple, functional form where potential clients can reach out to me with inquiries or project ideas. This helps make the site more interactive.
 
-# Subscription: A section to collect emails from visitors who want to stay updated with my latest work. This is helpful for building an audience and staying connected with people who are interested in my designs.
+Subscription: A section to collect emails from visitors who want to stay updated with my latest work. This is helpful for building an audience and staying connected with people who are interested in my designs.
 
 # Color Scheme and Typography
 
